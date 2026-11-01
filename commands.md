@@ -4,3 +4,5 @@
 3. git commit - Saves staged changes.
 4. git push - Uploads commits to a remote repository.
 5. git pull - Downloads and integrates remote changes.
+6. git branch - Lists all local branches.
+7. git merge - Combines changes from another branch.
